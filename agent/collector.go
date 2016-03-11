@@ -1,5 +1,0 @@
-package agent
-
-import (
-	"fmt"
-)
